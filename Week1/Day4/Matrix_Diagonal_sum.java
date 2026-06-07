@@ -1,6 +1,6 @@
 package Week1.Day4;
 
-public static class Matrix_Diagonal_sum {
+public class Matrix_Diagonal_sum {
 
     public static void main(String[] args){
         int[][] mat = {{1,2,3},{4,5,6},{7,8,9}};
